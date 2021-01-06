@@ -1,0 +1,324 @@
+[{
+  "q": "What is the name of the broker residing in Magatia?",
+  "a1": "Han the Broker",
+  "a": "1"
+}, {
+  "q": "What is the name of the buddy list admin in Lith Harbor?",
+  "a1": "Mr. Goldstein",
+  "a": "1"
+}, {
+  "q": "What is the name of the buddy list admin in Ludibrium?",
+  "a1": "Robert Holly",
+  "a": "1"
+}, {
+  "q": "What is the name of the dog sitting next to the Dimensional Mirror in Orbis?",
+  "a1": "Moppie",
+  "a": "1"
+}, {
+  "q": "What is the name of the current council president in Edelstein?",
+  "a1": "Anthony",
+  "a": "1"
+}, {
+  "q": "What is the name of the former council president in Edelstein?",
+  "a1": "Albert",
+  "a": "1"
+}, {
+  "q": "What is the name of the grandma guarding the Great Temple in Pantheon?",
+  "a1": "Selene",
+  "a": "1"
+}, {
+  "q": "What is the name of the helmsman of Riena Strait Glacial Observatory?",
+  "a1": "Helmsman Tanya",
+  "a": "1"
+}, {
+  "q": "What is the name of the Humanoid residing in Magatia?",
+  "a1": "Humanoid A",
+  "a": "1"
+}, {
+  "q": "What is the name of the kid monk in front of the Golden Temple entrance?",
+  "a1": "Noi",
+  "a": "1"
+}, {
+  "q": "What is the name of the merchant on the Nautilus?",
+  "a1": "Gali",
+  "a": "1"
+}, {
+  "q": "What is the name of the pet master in Ellinia?",
+  "a1": "Mar the Fairy",
+  "a": "1"
+}, {
+  "q": "What is the name of the plastic surgeon in Ariant?",
+  "a1": "Aldin",
+  "a": "1"
+}, {
+  "q": "What is the name of the skin care expert in Ariant?",
+  "a1": "Lila",
+  "a": "1"
+}, {
+  "q": "What is the name of the storage keeper in Ludibrium?",
+  "a1": "Seppy",
+  "a": "1"
+}, {
+  "q": "What is the name of the storage keeper in Rien?",
+  "a1": "Pusla",
+  "a": "1"
+}, {
+  "q": "What is the name of the storage keeper on the Nautilus?",
+  "a1": "Dondlass",
+  "a": "1"
+}, {
+  "q": "What is the name of the street sweeper in Edelstein?",
+  "a1": "Brighton",
+  "a": "1"
+}, {
+  "q": "What is the name of the town mascot of Edelstein?",
+  "a1": "Checky",
+  "a": "1"
+}, {
+  "q": "What is the name of the upcoming merchant in Pantheon?",
+  "a1": "Karin",
+  "a": "1"
+}, {
+  "q": "What is the name of the warp helper in Herb Town?",
+  "a1": "Crane",
+  "a": "1"
+}, {
+  "q": "What is the name of the weapon merchant in Ariant?",
+  "a1": "Zaid",
+  "a": "1"
+}, {
+  "q": "What is the name of the weapon seller on the Nautilus?",
+  "a1": "Morgan",
+  "a": "1"
+}, {
+  "q": "Who in Kerning City can repair items?",
+  "a1": "JM From tha Streetz",
+  "a": "1"
+},{
+  "q": "Who is the item creator in front of the Sleepywood Hotel?",
+  "a1": "Chrishrama",
+  "a": "1"
+},{
+  "q": "Who is the merchant in the Golden Temple?",
+  "a1": "Ms. Tang",
+  "a": "1"
+},{
+  "q": "Who is the merchant in Gold Beach Resort?",
+  "a1": "Mason",
+  "a": "1"
+},{
+  "q": "Who is the warrior job instructor in the Warriors'Sanctuary?",
+  "a1": "Dances with Balrog",
+  "a": "1"
+  },
+{
+  "q": "Who is the weapon seller in Perion?",
+  "a1": "River",
+  "a": "1"
+},{
+  "q": "Who is the subway worker next to the Ticket Gate in Kerning City?",
+  "a1": "Jake",
+  "a": "1"
+},{
+	"q": "Are you asking me if I can see in front of me? Of course I can!",
+	"a1": "Puno",
+	"a": "1"
+},{
+	"q": "Do you want to learn how to achieve spiritual enlightenment?",
+ "a1": "No Gong",
+ "a": "1"
+},{
+	"q": "Grendel the Really Old is not a bad person, but his students...", 
+	"a1": "Arwen the Fairy", 
+	"a": "1"
+	},{
+		"q": "If you have the Scroll of Secrets, give it to me!", 
+		"a1": "Geanie", "a": "1"},
+{"q": "I can only do this by myself for so long...", 
+"a1": "Anne", 
+"a":"1"
+},{
+	"q": "I can't wait for these kits to grow up!",
+	 "a1": "Patience", 
+	 "a": "1"
+	},{
+		"q": "I found him, so I'll take care of him!", "a1": "Moonbeam", "a": "1"},
+{"q": "I gotta say, I look pretty good in an apron.", "a1": "Elex", "a": "1"},
+{"q": "I need more firewood for the furnace.", "a1": "Timber", "a": "1"},
+{"q": "I need to send these herbs to Tae Sang fast...", "a1": "Mr. Ku", "a": "1"},
+{"q": "I serve the ancient Nova deities.", "a1": "Fenelle", "a": "1"},
+{"q": "I will never let go of thieves who try to steal from me.", "a1": "Harry", "a": "1"},
+{"q": "I'm worried that monsters these days are much more ferocious...", "a1": "Lisa", "a": "1"},
+{"q": "Just look at me! So strong. Don't be jealous.", "a1": "Olaf", "a": "1"},
+{"q": "Life is transitory. As time passes, the world will change.", "a1": "Do Gong", "a": "1"},
+{"q": "My friend Arwen is still pretty uncomfortable around humans.", "a1": "Rowen the Fairy", "a": "1"},
+{"q": "My hands aren't what they used to be. I really need to get me an apprentice...", "a1": "Potter", "a": "1"},
+{"q": "Nice weather, isn't it? It's a greay day to enjoy a walk with my pet, Muffins.", "a1": "Bastille", "a": "1"},
+{"q": "Nothing like a good set of Pirate digs, mates!", "a1": "Rodos", "a": "1"},
+{"q": "Outsiders can never be trusted.", "a1": "Faculty Head Kalayan", "a": "1"},
+{"q": "Pirates are the best! You want a piece of me?", "a1": "Valerie", "a": "1"},
+{"q": "So much homework... And so much studying to do... Man, I'm swamped.", "a1": "Wing the Fairy", "a": "1"},
+{"q": "That smell in the air sure does make the fur stand up, don't it?", "a1": "Alviola", "a": "1"},
+{"q": "The seas have grown fat as an orca, eh?", "a1": "Putan", "a": "1"},
+{"q": "This room is not open to the public.", "a1": "Olson", "a": "1"},
+{"q": "We must work together.", "a1": "Lakelis", "a": "1"},
+{"q": "Where are all my research notes? And my fairy comics?", "a1": "Cootie the Really Small", "a": "1"},
+{"q": "Won't somebody bring me some food? I'm starving?", "a1": "Lumps", "a": "1"},
+{"q": "Work is important, but eating is crucial!", "a1": "Bavan", "a": "1"},
+{"q": "I'm collecting herbs...", "a1": "Sabitrama", "a": "1"},
+{"q": "Which of these bosses has NEVER appeared in MapleStory?",
+ "a1": "Bear Grills Beelzebub Big Brother Big Carl Botichelli Cocatris Diablow Emuloch Navy Captain Von Venom", 
+ "a": "1"
+},
+{"q": "Which of these chairs does NOT exist in MapleStory?",
+ "a1": "Come Back Chair,Diamond Bath,First Love Chair,Last Year Sergeant Chair,March Bunny Chair,Mammoth Chair,Money Cushion,Rappy's Persimmon Chair,Valentine's Cursed Chair,Wheelchair", 
+ "a": "1"
+},
+{"q": "Which of these cities does NOT exist in MapleStory?",
+ "a1": "Aqua Aqua,Cunning City,Edinburgh,El Segundo,Fenesys,Frankenstein,Margaret,Sacramento,Sleeping Forest,Swan Town", 
+ "a": "1"
+},
+{"q": "Which of these is NOT a crafting item in MapleStory?",
+ "a1": "Loving Chocolate,Fairy Sand,Hyacinth Juice,Kryptonite Ore,Magnus Sweat,Nickel,Penicillin,Pulsatilla Seed,Used Fabric,Zakum Phlegm", 
+ "a": "1"
+},
+{"q": "Which of these is NOT a one-handed weapon?",
+ "a1": "Beatstick,Doombringer,Facebuster,Forked Spear,Gallant Wings,Lion's Fang,Lunar Glory,Pioneer's Dual Wings,Twin Zephyrs,Wooden Mallet", 
+ "a": "1"
+},
+{"q": "Which of these is NOT a Paladin skill?",
+ "a1": "Blaze Defense,Blessing,Chase,Divine Sword,Faint Prayer,Haste,Lightning Action,Mendable Claw,Ordinance,Regal Stretch", 
+ "a": "1"
+},
+{"q": "Which of these is NOT a Shade skill?",
+ "a1": "Chase Cut,Dead Or Alive,Heavy Hammer,Hyper Buting,Pink Punch,Really Angry Fist,Scuffle,Sleeper Hold,Stumping A Mudhole,Super Mega Awesome Punch", 
+ "a": "1"
+},
+{"q": "Which of these is NOT a skill of a Battle Mage?",
+ "a1": "Draw Mana", 
+ "a": "1"
+},
+{"q": "Which of these is NOT a skill of a Cannoneer?",
+ "a1": "Fast Reload", 
+ "a": "1"
+},
+{"q": "Which of these is NOT a skill of a Marksman?",
+ "a1": "Exploding Arrows", 
+ "a": "1"
+},
+{"q": "Which of these is NOT a skill of a Mechanic?",
+ "a1": "Claymore", 
+ "a": "1"
+},
+{"q": "Which of these is NOT a skill of a Wind Archer?",
+ "a1": "Double Shot Witcher", 
+ "a": "1"
+},
+{"q": "Which of these is NOT a skill of Mihile?",
+ "a1": "Soul Plunger", 
+ "a": "1"
+},
+{"q": "Which of these is NOT a skill of Phantom?",
+ "a1": "Perfect Sense", 
+ "a": "1"
+},
+{"q": "Which of these is NOT a skill of the Demon Slayer?",
+ "a1": "Mind Flayer", 
+ "a": "1"
+},
+{"q": "Which of these is NOT a skill of the Night Walker?",
+ "a1": "Collateral Flash", 
+ "a": "1"
+},
+{"q": "Which of these is NOT a skill of the Swordsman?",
+ "a1": "Imagination Boost", 
+ "a": "1"
+},
+{"q": "Which of these is NOT a Zero skill?",
+ "a1": "Crimson Cutter,Cross Line,Deadly Action,Double Stretch,Fighting Stumble,File Driver,Low Blow,Mega Power Bomb,Moon Assault,Psychic Tracer", 
+ "a": "1"
+},
+{"q": "Which of these is NOT in Monster Life?",
+ "a1": "Aqua Aquarium Basement Training Ground BigWigs Black Bunny Farm Black House Cave House Empress Prayer House Fish Farm Fruit Farm Heaven's Hammer Hideout Maple Aquatic House Maple Water Park Mushroomy Mine Organic Mud House Pantheon Temple Psychic Audition Hall Puriel House Shammos' Storage Room Sushi House", 
+ "a": "1"
+},
+{"q": "Which of these items does NOT exist in MapleStory?",
+ "a1": "Alchemist's Handmade Gloves Blessed Sunglasses Donkey's Chef Hat Frantic Hair Pin Minotaurus Nose Ring Phoenix Dandruff Single's Curse Promise Ring Sugar's Tiny Cane Ultimate Harp Helm Venom Buccaneer", 
+ "a": "1"
+},
+{"q": "Which of these items is NOT a consumable item?",
+ "a1": "Crimson Bull Fairy Dew Fancy Cheese Lukewarm Juice Purple Potion Smoked Salmon Wizard's Toenail Year of Horse Cleansing Potion Year of Horse Resistance Potion Zakum's Breath", 
+ "a": "1"
+},
+{"q": "Which of these items is NOT a hand cannon?",
+ "a1": "Art Lulu Bling Bling Iron Cannon Blurry Cannon Click Click Boom Crimson Bull Cursed Black Cannon Dragonic Deck Sweeper Handcrafted Ignite Crash Necro Beryl Cannon Used Toy Cannon", 
+ "a": "1"
+},
+{"q": "Which of these jobs does NOT exist in MapleStory?",
+ "a1": "Art Designer Bard Beast Lord Blue Mage Cannon Puncher Demon Hunter Eric Necromancer Water Dancer Wind Runner", 
+ "a": "1"
+},
+{"q": "Which of these jobs is a part of the Cygnus Knights?",
+ "a1": "Blaze Wizard Night Walker", 
+ "a": "1"
+},
+{"q": "Which of these jobs is a part of the Explorers?",
+ "a1": "Bishop Dual Blade", 
+ "a": "1"
+},
+{"q": "Which of these jobs is a part of the Legendary Heroes?",
+ "a1": "Luminous Mercedes", 
+ "a": "1"
+},
+{"q": "Which of these jobs is a part of the Nova race?",
+ "a1": "Angelic Buster Kaiser", 
+ "a": "1"
+},
+{"q": "Which of these jobs is a part of the Resistance?",
+ "a1": "Demon Avenger Xenon", 
+ "a": "1"
+},
+{"q": "Which of these monsters does NOT exist in MapleStory?",
+ "a1": "Bertus Corbie Dark Cactus Downey Fenelle Mountable Golem Red Peppers Sledge Hammer Sharplan Solarion", 
+ "a": "1"
+},
+{"q": "Which of these monsters is NOT a canine?",
+ "a1": "Birk", 
+ "a": "1"
+},
+{"q": "Which of these monsters is NOT a Mammal?",
+ "a1": "Spore", 
+ "a": "1"
+},
+{"q": "Which of these monsters is NOT a plant?",
+ "a1": "OctoPirate", 
+ "a": "1"
+},
+{"q": "Which of these monsters is NOT a reptile?",
+ "a1": "Jr. Wraith", 
+ "a": "1"
+},
+{"q": "Which of these monsters is NOT enchanted?",
+ "a1": "Antoinette Goby", 
+ "a": "1"
+},
+{"q": "Which of these monsters is NOT from the Nihal Desert?",
+ "a1": "Water Thief Monster", 
+ "a": "1"
+},
+{"q": "Which of these monsters is NOT in the Tower of Oz?",
+ "a1": "Ancient Insectivore Slimes Ancient Mushroom Bat Ancient Red Turtle Black Thorny Bear Blue Ancient Beetle Blue Mushroom Bat Crocodile Murupa Roolang Yellow Flower Cow", 
+ "a": "1"
+},
+{"q": "Which of these monsters is NOT live in the sea?",
+ "a1": "Captain Latencia", 
+ "a": "1"
+},
+{"q": "Which of these monsters is NOT undead?",
+ "a1": "Pink Bean Snipe of Competence", 
+ "a": "1"
+},
+{"q": "Which of these people is NOT a resident in MapleStory?",
+ "a1": "Agamemnon Carno DJ Koo Giant Joe Harcourt Jacklyn Joe Bob Kaiso Stitch Sybil", 
+ "a": "1"
+}]
